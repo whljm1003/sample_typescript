@@ -1,1 +1,1 @@
-# 😵‍💫basic sample typescript
+# 😵‍💫basic typescript
